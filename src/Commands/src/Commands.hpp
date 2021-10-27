@@ -3,4 +3,6 @@
 
 void ClearScreen();
 
+void WriteLineToScreen(char *line);
+
 #endif // COMMANDS_H
